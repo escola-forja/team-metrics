@@ -2,6 +2,8 @@
 
 This project calculates metrics based on a set of delivered tasks.
 
+How to use these metrics (free class): https://escolaforja.com.br/course/tecnicas-de-estimativas-de-software/tecnicas-estimativas-software
+
 ## Dependencies
 You need `Python 3.12` installed (it can work with other versions, but everything was tested in this specific version.)
 
